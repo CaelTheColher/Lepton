@@ -1,0 +1,10 @@
+﻿{
+   "Name": "Lepton",
+   "Author": "Cael",
+   "Version": "1.0.0",
+   "Description": "Small Things",
+   "UniqueID": "Cael.Lepton",
+   "EntryDll": "Lepton.dll",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": []
+}
