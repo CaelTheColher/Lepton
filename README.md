@@ -1,2 +1,5 @@
 # Lepton
-Small Things
+Small Things.
+
+WIP
+Currently only supporting windows
